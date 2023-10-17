@@ -1,4 +1,4 @@
-# Openwrt_XiaoMI_mini-R1C-_-firmware（本地编译_非Github云编译）
+# Openwrt_XiaoMI_mini_(R1C)_firmware（本地编译_非Github云编译）
 #对于校园网检测路由器的方法目前已知有：
 
 #1_基于 HTTP 数据包请求头内的 User-Agent 字段的检测
