@@ -1,0 +1,1 @@
+# Openwrt_XiaoMI_mini-R1C-_-firmware
