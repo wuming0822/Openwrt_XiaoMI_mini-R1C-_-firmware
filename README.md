@@ -108,20 +108,24 @@ make menuconfig
 ##### 后面的选项依据教程勾选相应的插件，开启模块，以及主题的选择(在相应的模块前按 Y 即可勾选，或 双击空格 来确定勾选，如果勾选成功则相应的选项最前面的（）里就会出现*，如（*）)
 
 勾选上ipid
+
 `kernel-modules`->`Other modules`->`kmod-rkp-ipid`
 
 勾选相应模块
+
 `kernel modules`->`Netfilter Extensions`->`kmod-ipt-u32`
 
 `kernel modules`->`Netfilter Extensions`->`kmod-ipt-ipopt`
 
 勾选上ua2f模块
+
 `network`->`Routing and Redirection`->`ua2f`
 
 勾选模块
+
 `network`->`firewall`->`iptables-mod-filter`
 
-`network->`firewall`->`iptables-mod-ipopt`
+`network`->`firewall`->`iptables-mod-ipopt`
 
 `network`->`firewall`->`iptables-mod-u32`
 
