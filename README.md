@@ -16,7 +16,7 @@
 
 #以下为在本地编译固件环境所需要的准备的：
 
-##########1_`Vmware虚拟机`[Vmware]()
+1_`Vmware虚拟机`[Vmware](https://blog.csdn.net/weixin_45912291/article/details/108894737)
 
 2_`Ubuntu_22.04_lts固件`（固件编译所需环境）[ubuntu固件阿里云镜像站](https://mirrors.aliyun.com/ubuntu-releases/22.04/ubuntu-22.04.3-desktop-amd64.iso?spm=a2c6h.25603864.0.0.2b7e45f8ROrZfC)
 
@@ -26,9 +26,7 @@
 
 5_`以及一个良好的心情:)`
 
-#以上所有需要的固件我都会打包放置百度网盘
 
-###########[所需的固件包(百度网盘)]()
 
 
 
