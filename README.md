@@ -33,7 +33,7 @@
 
 以下为在本地编译固件环境所需要的准备的：
 
-1.`Vmware虚拟机`[Vmware安装教程](https://blog.csdn.net/weixin_45912291/article/details/108894737)
+1.`Vmware虚拟机`[VMware 17 下载安装及永久激活使用教程](https://www.cnblogs.com/hellogmy/p/17253041.html)
 
 2.`Ubuntu_22.04_lts固件`（固件编译所需环境）[ubuntu固件阿里云镜像站](https://mirrors.aliyun.com/ubuntu-releases/22.04/ubuntu-22.04.3-desktop-amd64.iso?spm=a2c6h.25603864.0.0.2b7e45f8ROrZfC)
 
